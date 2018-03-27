@@ -1,0 +1,21 @@
+[submodule "firmware/zubax_chibios"]
+	path = firmware/zubax_chibios
+	url = https://github.com/Zubax/zubax_chibios
+[submodule "firmware/libuavcan"]
+	path = firmware/libuavcan
+	url = https://github.com/UAVCAN/libuavcan
+[submodule "tools/drwatson/drwatson"]
+	path = tools/drwatson/drwatson
+	url = https://github.com/Zubax/drwatson
+[submodule "tools/drwatson/pyuavcan"]
+	path = tools/drwatson/pyuavcan
+	url = https://github.com/UAVCAN/pyuavcan
+[submodule "bootloader/zubax_chibios"]
+	path = bootloader/zubax_chibios
+	url = https://github.com/Zubax/zubax_chibios
+[submodule "bootloader/libcanard"]
+	path = bootloader/libcanard
+	url = https://github.com/UAVCAN/libcanard
+[submodule "docs/datasheet/document_templates"]
+	path = docs/datasheet/document_templates
+	url = https://github.com/Zubax/document_templates
